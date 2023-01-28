@@ -25,6 +25,8 @@ USe fit(x,y)
 to print output
 
 ## Program:
+Developed by: M Nikhil
+Register number: 22008584
 ```
 
 import pandas as pd
